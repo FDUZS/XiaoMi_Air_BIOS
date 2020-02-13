@@ -24,7 +24,7 @@ default upgrade, install by double click
 
 解压文件，用文本编辑器修改 `platform.ini`
 
-extract, edit `platform.ini` with text editor(VSCode, for example)
+extract, edit `platform.ini` with text editor (VSCode, for example)
 
 搜索 `[Bios_Version_Check]`，修改第二个结果下的 `Flag` 为 `0`，即 `Flag=0`，保存
 
