@@ -1,4 +1,4 @@
-### 这是什么 | What's this
+# 这是什么 | What's this
 
 小米 Air 13.3 2018（CPU i5-8250U） BIOS
 
@@ -12,7 +12,7 @@ Two versions available:
 
 `XMAKB3M0P120C.exe` 为 2018 年 7 月份版本（July 2018 version）
 
-### 怎么使用 | How to use
+# 怎么使用 | How to use
 
 - 升级 | Upgrade
 
