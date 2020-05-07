@@ -18,7 +18,7 @@ Two versions available:
 
 默认升级，双击安装即可
 
-default upgrade, install by double click
+upgrade by default, double click to install
 
 - 降级 | Downgrade
 
@@ -32,4 +32,4 @@ search for `[Bios_Version_Check]`, change the value of `Flag` from `1` to `0`, s
 
 双击安装即可
 
-install by double click
+double click to install
